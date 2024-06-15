@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  exampleuseazureblobstorage:
+    container_name: exampleuseazureblobstorage
+    image: ${DOCKER_REGISTRY-}exampleuseazureblobstorage
+    build:
+      context: .
+      dockerfile: ExampleUseAzureBlobStorage/Dockerfile
+
+  azureblob:
+    container_name: azureblob    
+    image: "mcr.microsoft.com/azure-storage/azurite"
