@@ -1,1 +1,1 @@
-# ExampleUseAzureBlobStorage
+# [ExampleUseAzureBlobStorage](https://github.com/a-sharifov/ExampleUseAzureBlobStorage) [![GitHub license](https://img.shields.io/badge/license-Mit-blue.svg)](https://github.com/a-sharifov/ExampleUseAzureBlobStorage/blob/master/LICENSE.txt) 
